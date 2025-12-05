@@ -1,0 +1,7 @@
+# Directorios y archivos generados automáticamente para ignorar
+.pytest_cache/
+venv/
+.python-version
+
+# Ignorar solo __pycache__ dentro del directorio src/
+src/__pycache__/
