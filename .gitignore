@@ -5,5 +5,6 @@ venv/
 
 # Ignorar solo __pycache__ dentro del directorio src/
 src/__pycache__/
-test/__pycache__/
+tests/__pycache__/
+__pycache__/
 dataset/application_train_aai.csv
